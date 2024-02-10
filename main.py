@@ -9,7 +9,7 @@ def main():
     else:
         os.system('clear')
 
-    set_console_title('retexts dev build | made by clairesfanboy')
+    set_console_title('retexts dev build | made by wvft')
 
     banner = """
                          :::::::::  :::::::::: ::::::::::: :::::::::: :::    ::: ::::::::::: :::::::: 
